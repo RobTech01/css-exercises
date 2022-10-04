@@ -1,0 +1,17 @@
+.odd {
+    background-color: rgb(255, 20, 20);
+}
+
+.odd.cooler {
+    font-size: 200%;
+}
+
+#one {
+    color: rgb(0, 0, 255);
+    font-size: 300%;
+}
+
+#another {
+    background-color: rgb(10, 255, 10);
+    font-weight: bold;
+}
