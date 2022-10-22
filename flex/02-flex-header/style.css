@@ -23,6 +23,8 @@ ul {
 
   display: flex;
   gap: 16px;
+
+  flex: 1;
 }
 
 a {
@@ -31,4 +33,11 @@ a {
   padding: 8px;
   /* this removes the line under the links */
   text-decoration: none;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  flex: 1;
+  border: 3px solid black;
 }
